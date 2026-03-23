@@ -1,2 +1,5 @@
 data/dem_20m_hualien.tif
 *.tif
+.env
+outputs/
+__pycache__/
